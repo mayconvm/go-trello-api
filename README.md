@@ -2,9 +2,9 @@
 
 ## Configurations
 
-# Todo V1
+## Todo V1
 
-## Server
+### Server
 
 * Connect api Trello
 * Get all checklists
@@ -13,7 +13,7 @@
 * Generate checklists
 * Add checklists in cards
 
-## Web
+### Web
 
 * Build React
 * Login in API trello
@@ -21,7 +21,7 @@
 * Combobox with days week
 * Send cards trello
 
-# Todo V2
+## Todo V2
 
-## Server
-## Web
+### Server
+### Web
